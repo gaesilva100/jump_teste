@@ -1,0 +1,8 @@
+com\jump\jump\domain\Property.class
+com\jump\jump\JumpApplication.class
+com\jump\jump\controller\EstateController.class
+com\jump\jump\repository\EstateRepository.class
+com\jump\jump\dto\EstateDto.class
+com\jump\jump\domain\Estate.class
+com\jump\jump\service\EstateService.class
+com\jump\jump\dto\EstateFactory.class
